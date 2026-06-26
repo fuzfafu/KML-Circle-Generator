@@ -45,8 +45,9 @@ Open either file in [Google Earth](https://earth.google.com/) or
 
 ## Your CSV file
 
+You can get a CSV file by using Open Street Maps, asking any AI or creating it in Excel (not recommended)
 Needs a header row with `latitude` and `longitude` columns. A `name`
-column is optional:
+column is optional but will label your points:
 
 ```
 name,latitude,longitude
@@ -58,6 +59,8 @@ Warehouse B,34.0522,-118.2437
 
 - **"command not found: python3"** — try `python` instead, or reinstall
   Python and check "Add to PATH" was ticked during setup.
+- If you don't have Python installed, when you run `python` it may pronpt
+  you to download it from the MS store as an easy option.
 - **"Couldn't find [file]"** — make sure you typed the correct file name
   and that the CSV is in the same folder you're running the command from.
 - **"CSV must contain 'latitude' and 'longitude' columns"** — check your
