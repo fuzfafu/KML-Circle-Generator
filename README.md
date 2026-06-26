@@ -71,8 +71,3 @@ Warehouse B,34.0522,-118.2437
 - **Typed something that's not a number for the radius** — it just falls
   back to the default (250m) and tells you so; rerun if you wanted a
   different value.
-
-## Sharing this with others
-
-Just send the whole folder (or `circle_kml.py` + your CSV together).
-Anyone with Python installed can run it — no other setup needed.
