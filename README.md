@@ -5,10 +5,10 @@ and saves it as a KML map file.
 
 ## What you need
 
-Python 3 installed. Check by opening a terminal and typing:
+Python installed. Check by opening a terminal and typing:
 
 ```
-python3 --version
+python
 ```
 
 If that doesn't show a version number, install Python from
