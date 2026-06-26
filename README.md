@@ -5,7 +5,7 @@ and saves it as a KML map file.
 
 ## What you need
 
-'circle_kml.py' and Python downloaded. Check by opening a terminal and typing:
+'circle_kml.py', a CSV file with your coordinates and Python downloaded. Check for Python by opening a terminal and typing:
 
 ```
 python3
