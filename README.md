@@ -43,14 +43,6 @@ pins but keep the circles) in Google Earth or My Maps.
 Open either file in [Google Earth](https://earth.google.com/) or
 [Google My Maps](https://www.google.com/maps/d/) to see your circles.
 
-### Prefer one line instead of being asked questions?
-
-```
-python3 circle_kml.py points.csv 250
-```
-
-(file name, then radius in meters)
-
 ## Your CSV file
 
 Needs a header row with `latitude` and `longitude` columns. A `name`
