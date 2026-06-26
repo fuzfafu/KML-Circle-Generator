@@ -40,6 +40,8 @@ CSV (e.g. `sample_coordinates_circles.kml` and
 Keeping them separate makes it easy to turn one off (e.g. hide the center
 pins but keep the circles) in Google Earth or My Maps.
 
+If you need them as one file, use [KML Merger](https://kmlmerger.com/)
+
 Open either file in [Google Earth](https://earth.google.com/) or
 [Google My Maps](https://www.google.com/maps/d/) to see your circles.
 
@@ -61,7 +63,7 @@ Warehouse B,34.0522,-118.2437
   Python and check "Add to PATH" was ticked during setup.
 - If you don't have Python installed, when you run `python` it may pronpt
   you to download it from the MS store as an easy option, otherwise you
-  can download from [wwww.python.org/downloads](https://www.python.org/downloads/)
+  can download from [python.org](https://www.python.org/downloads/)
 - **"Couldn't find [file]"** — make sure you typed the correct file name
   and that the CSV is in the same folder you're running the command from.
 - **"CSV must contain 'latitude' and 'longitude' columns"** — check your
