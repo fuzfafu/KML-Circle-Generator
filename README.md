@@ -60,7 +60,8 @@ Warehouse B,34.0522,-118.2437
 - **"command not found: python3"** — try `python` instead, or reinstall
   Python and check "Add to PATH" was ticked during setup.
 - If you don't have Python installed, when you run `python` it may pronpt
-  you to download it from the MS store as an easy option.
+  you to download it from the MS store as an easy option, otherwise you
+  can download from [wwww.python.org/downloads](https://www.python.org/downloads/)
 - **"Couldn't find [file]"** — make sure you typed the correct file name
   and that the CSV is in the same folder you're running the command from.
 - **"CSV must contain 'latitude' and 'longitude' columns"** — check your
