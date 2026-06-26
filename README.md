@@ -27,7 +27,7 @@ python3 circle_kml.py
 ```
 
 4. Answer the two questions it asks:
-   - the path to your CSV file (try `sample_coordinates.csv` to test it)
+   - the path (filename+type) to your CSV file (try `sample_coordinates.csv` to test it)
    - the circle radius in meters
 
 That's it. It saves two `.kml` files in the same folder, named after your
