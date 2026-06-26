@@ -5,10 +5,10 @@ and saves it as a KML map file.
 
 ## What you need
 
-Python installed. Check by opening a terminal and typing:
+'circle_kml.py' and Python downloaded. Check by opening a terminal and typing:
 
 ```
-python
+python3
 ```
 
 If that doesn't show a version number, install Python from
